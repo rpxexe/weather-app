@@ -145,6 +145,6 @@ html,body{
 }
 @media(max-width:600px) {
     .container{
-        margin-top: -200px;
+       //margin-top: -200px;
         }
 }
